@@ -1,0 +1,82 @@
+.Resume {
+  color: white;
+  font-size: large;
+}
+
+.Resume > section {
+  margin-bottom: -5px;
+}
+
+.Resume > section > h2 {
+  font-family: 'Pixelify Sans', sans-serif;
+}
+
+.Top {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.ProfileBullets {
+  margin-top: 1.2em;
+  margin-bottom: 2em;
+  padding-left: 2.5em;
+}
+
+.Job {
+  margin-top: 3.5em;
+}
+
+.Job > p {
+  margin-bottom: -2px;
+}
+
+.Job > ul {
+  margin-top: 1.2em;
+  margin-bottom: 1em;
+  padding-left: 2.5em;
+}
+
+.Job > ul > li {
+  margin-bottom: -20px;
+}
+
+.ExperienceText {
+  margin-top: 1.2em;
+  margin-bottom: 2em;
+  padding-left: 2.5em;
+}
+
+.TechSkills {
+  display: flex;
+  flex-direction: column;
+  column-gap: 1em;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 1.2em;
+  margin-bottom: 2em;
+  padding-left: 2.5em;
+}
+
+.TechnicalCertifications {
+  margin-top: 0;
+  padding: 0.1em 0;
+  margin-bottom: 1em;
+}
+
+.TechnicalCertifications li {
+  list-style-type: none;
+}
+
+.Education {
+  margin-top: 1.2em;
+  margin-bottom: 2em;
+  padding-left: 2.5em;
+}
+h2 {
+  padding: 1rem;
+  border-bottom: solid black 2px;
+}

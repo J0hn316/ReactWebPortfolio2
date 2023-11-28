@@ -1,0 +1,14 @@
+.NavBar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  font-family: 'Pixelify Sans', sans-serif;
+  color: white;
+  padding: 0.1rem;
+  font-size: 2em;
+}
+
+.NavBar a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.contactPage {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Pixelify Sans', sans-serif;
+  text-align: center;
+  color: white;
+}

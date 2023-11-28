@@ -1,0 +1,21 @@
+.projects {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.projectspage {
+  color: white;
+  text-align: center;
+  font-family: 'Pixelify Sans', sans-serif;
+}
+
+.projectspage h1 {
+  font-size: 3rem;
+}
+
+.projectspage p {
+  font-size: 1rem;
+}

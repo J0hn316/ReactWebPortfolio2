@@ -1,0 +1,19 @@
+.footer {
+  font-family: 'Pixelify Sans', sans-serif;
+  margin-top: 3em;
+  width: inherit;
+  box-shadow: inset 0px 10px 8px -14px var(--muted-color);
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.footer > p {
+  color: var(--muted-color);
+  text-align: center;
+  font-size: larger;
+  padding: 0;
+  margin: 0;
+}
